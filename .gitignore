@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.tox/
+.coverage
+htmlcov/
+*.egg
+*.whl
+
+# Environment
+.venv/
+.env/
+.env.*
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# AutoAnswer runtime
+*.port
+.autoanswer/
+
+# Temp fix scripts
+_fix.py
+slim_fix.py
